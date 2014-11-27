@@ -1,0 +1,37 @@
+{
+  "name": "browser-support",
+  "version": "0.0.0",
+  "description": "Ensure HTML5, CSS3 and modern JavaScript support on the old browsers. Coding zen in harmony, even with the old browsers :)",
+  "main": "./src/index.js",
+  "keywords": [
+    "polyfill",
+    "shim",
+    "browser",
+    "support",
+    "dom",
+    "html5",
+    "css3",
+    "front",
+    "es6",
+    "es7"
+  ],
+  "homepage": "http://bindux.com/browser-support",
+  "author": {
+    "name": "Nicolas Tallefourtane",
+    "url": "http://nicolab.net"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bindux/browser-support/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bindux/browser-support.git"
+  },
+  "bugs": "https://github.com/bindux/browser-support/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
